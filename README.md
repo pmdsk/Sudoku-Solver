@@ -1,6 +1,6 @@
 # Sudoku Solver (Console-Based Game)
 
-A fully interactive Sudoku game built using **C++**, leveraging **STL containers**, **backtracking algorithms**, and **modular design**. The player can play Sudoku directly in the terminal, with real-time input validation, hints, undo functionality, and more.
+A fully interactive Sudoku game built using **C++**, utilizing **STL containers**, **backtracking algorithms**, and **modular design**. The player can play Sudoku directly in the terminal, with real-time input validation, hints, undo functionality, and more.
 
 ## Features
 
